@@ -1,0 +1,24 @@
+youtrack:
+  host: "https://youtrack.pondus.de"
+  username: MyUsername
+  password: MyPassword
+
+variables:
+  sprint: "{November19 A}"
+
+aliases:
+  bon_easy: "sprint: ${sprint} project: BON #easy #unresolved"
+  bon_service: "#Service project: BON"
+  retro: "#META-28"
+  standups: "#META-418"
+  devops-retro: "#META-26"
+  planning: "#META-206"
+  fortbildung: "#META-44"
+  refactoring_friday: "#META-114"
+  infrastruktur: "#DEVOPS-10"
+  allgemeine_meetings: "#META-26"
+  sentry_grooming: "#META-380"
+  teamfrühstück: "#META-26"
+  organisatorisches: "#META-31"
+  allgemeine_kommunikation: "#META-27"
+  at_standup: "#AT-32"
